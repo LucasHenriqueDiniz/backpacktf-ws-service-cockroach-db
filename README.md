@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://socialify.git.ci/LucasHenriqueDiniz/backpacktf-ws-service-cockroach-db/image?description=1&amp;descriptionEditable=&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Brick%20Wall&amp;theme=Light" alt="project-image"></p>
 
-<p align="center">Create a Node.js application that connects to the Backpack.tf WebSocket service and gathers listing data. It then stores this data in a CockroachDB database ensuring the information remains up-to-date. This project is ideal for custom pricers that require real-time listing updates, this project is heavily inspired by [backpack.tf-ws-service](https://github.com/purplebarber/backpack.tf-ws-service/tree/main), but with a CockroachDB database instead of MongoDB and TypeScript(typescript supremacy).</p>
+<p align="center">Create a Node.js application that connects to the Backpack.tf WebSocket service and gathers listing data. It then stores this data in a CockroachDB database ensuring the information remains up-to-date. This project is ideal for custom pricers that require real-time listing updates, this project is heavily inspired by <a href="https://github.com/purplebarber/backpack.tf-ws-service/tree/main">backpack.tf-ws-service</a>, but with a CockroachDB database instead of MongoDB and TypeScript(typescript supremacy).</p>
  
 # Table of Contents
 
@@ -25,6 +25,9 @@ This is a table of contents for your project. It helps the reader navigate throu
 - The Backpack.tf WebSocket service is a premium feature and requires a subscription to access.
 - This project is under development and may contain bugs.
 - Contact me in Discord if you have any questions: `amayacrab`
+- For more information about the Backpack.tf WebSocket service, visit the [official documentation](https://backpack.tf/developer/websockets).
+- For now the custom pricer is not implemented, but it will be soon.
+- The project has a problem with creating too many connections to the database, I'm working on a solution.
 
 ## Features
 
