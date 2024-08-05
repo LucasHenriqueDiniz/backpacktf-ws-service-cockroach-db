@@ -1,0 +1,100 @@
+{
+  "id": "66aea93ed95b58671208f620",
+  "event": "listing-update",
+  "payload": {
+    "id": "440_76561199193412191_95998e17b14e51852c1e88bb4350d181",
+    "steamid": "76561199193412191",
+    "appid": 440,
+    "currencies": {
+      "metal": 5.77,
+      "keys": 2
+    },
+    "value": {
+      "raw": 102.21,
+      "short": "2.12 keys",
+      "long": "2 keys, 5.77 ref"
+    },
+    "tradeOffersPreferred": true,
+    "buyoutOnly": true,
+    "details": "Buying Strange Autumn Shotgun (Factory New), for 2 keys 5.77 ref! (0/1) | Can pay more in certain cases (eg. Strange Unusual/Factory New), just contact my owner! (Discord: @Moder) 王 ",
+    "listedAt": 1722722622,
+    "bumpedAt": 1722722622,
+    "intent": "buy",
+    "count": 1,
+    "status": "active",
+    "source": "userAgent",
+    "item": {
+      "appid": 440,
+      "baseName": "Shotgun",
+      "defindex": 10,
+      "id": "",
+      "imageUrl": "https://scrap.tf/img/items/warpaint/Shotgun_60_1_0.png",
+      "marketName": "Strange Autumn Shotgun (Factory New)",
+      "name": "Strange Autumn Shotgun (Factory New)",
+      "origin": null,
+      "originalId": "",
+      "price": {
+        "steam": {
+          "currency": "usd",
+          "short": "$11.16",
+          "long": "348.75 ref, 7.23 keys",
+          "raw": 241.3162331838565,
+          "value": 1116
+        },
+        "suggested": {
+          "raw": 241.3162331838565,
+          "short": "5 keys",
+          "long": "241.32 ref, 5.00 keys, $7.72",
+          "usd": 7.722119461883408
+        }
+      },
+      "quality": {
+        "id": 11,
+        "name": "Strange",
+        "color": "#CF6A32"
+      },
+      "summary": "Level 1 Shotgun (Factory New)",
+      "texture": {
+        "id": 60,
+        "itemDefindex": 15085,
+        "rarity": {
+          "id": 1,
+          "name": "Civilian",
+          "color": "#B0C3D9"
+        },
+        "name": "Autumn"
+      },
+      "class": ["Soldier"],
+      "wearTier": {
+        "id": 1,
+        "name": "Factory New",
+        "short": "FN"
+      },
+      "slot": "secondary",
+      "tradable": true,
+      "craftable": true
+    },
+    "userAgent": {
+      "client": "Gladiatortf - Rent your own bot from 6 keys per month",
+      "lastPulse": 1722722548
+    },
+    "user": {
+      "id": "76561199193412191",
+      "name": "Epic Flintstones王 <{24/7⇄}>",
+      "avatar": "https://avatars.steamstatic.com/a8c0980cadb13a523be0cbecbf6c5ca4ef1fef2c_medium.jpg",
+      "avatarFull": "https://avatars.steamstatic.com/a8c0980cadb13a523be0cbecbf6c5ca4ef1fef2c_full.jpg",
+      "premium": true,
+      "online": true,
+      "banned": false,
+      "customNameStyle": "awesome5",
+      "acceptedSuggestions": 0,
+      "class": "awesome5",
+      "style": "",
+      "role": null,
+      "tradeOfferUrl": "https://steamcommunity.com/tradeoffer/new/?partner=1233146463&token=hjAyvMts",
+      "isMarketplaceSeller": false,
+      "flagImpersonated": null,
+      "bans": []
+    }
+  }
+}

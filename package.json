@@ -1,0 +1,22 @@
+{
+  "name": "backpacktf-ws-cockroach-db",
+  "version": "1.0.0",
+  "description": "cockroach database for backpack.tf websocket",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "5.8.1",
+    "prisma": "5.8.1",
+    "ts-node": "^10.9.2",
+    "uuid": "9.0.1",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.1.0"
+  }
+}
