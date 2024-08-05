@@ -58,10 +58,7 @@ function reformatEvent(payload): any {
 }
 
 async function handleWebSocketMessage(messageJSON) {
-  if (
-    !messageJSON ||
-    (messageJSON.length === 0 && messageJSON === null && messageJSON === undefined)
-  ) {
+  if (!messageJSON) {
     print("Message is empty", "warning");
     return;
   }
